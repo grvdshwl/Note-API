@@ -1,8 +1,8 @@
 # Note-API
-Basic api for authentication using JWT and CRUD operations for notes.
+## Basic api for authentication using JWT and CRUD operations for notes.
 
 
-# create .env file in the root folder using below variables :
+## create .env file in the root folder using below variables :
 
                DATABASE_URL = mongodb://localhost/notes-application
                ACCESS_TOKEN_SECRET = access-token-secret
